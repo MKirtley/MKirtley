@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MKirtley
-- 👀 I’m interested in data science, machine learning and software development.
-- 🌱 I’m currently learning Android programming and data analytics.
+- 👀 I’m interested in data science, machine learning, and software development.
+- 🌱 I’m currently learning computer vision.
 - 💞️ I’m looking to collaborate on any data analytics projects.
 - 📫 How to reach me mkirtley77@gmail.com
 
